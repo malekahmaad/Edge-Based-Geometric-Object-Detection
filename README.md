@@ -51,3 +51,10 @@ The detection process consists of the following stages:
   * The area of the detected object is computed.
 
   * Bounding box corners are marked in the original image.
+
+## Technologies Used
+* Python
+
+* OpenCV
+
+* NumPy
